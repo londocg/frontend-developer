@@ -1,2 +1,2 @@
 # frontend-developer
-Realizacion de paguina ecommerce con html, css y javaScript
+Realizacion de pagina ecommerce con html, css y javaScript
